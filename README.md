@@ -3,14 +3,20 @@
 <!--
 **Mrcode3/Mrcode3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at University of Massachusetts Boston, US.
+- 🌱 &nbsp; Currently Learning to a become full stack web developer.
+- Open for project collaboration and full time opportunities. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Python | C++ | Java
+- 🌐 &nbsp; ReactJS | NodeJS | ExpressJS | ThreeJS | NextJS   
+- 🎮 &nbsp; Unity
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Postman API | Redux Toolkit | RestAPI
+
 -->
+
