@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Massachusetts Boston, US.
+- 🎓 &nbsp; Recent computer science graduate at University of Massachusetts Boston, US.
 - 🌱 &nbsp; Currently Learning to become a full stack web developer.
 - 👀 &nbsp; Open for project collaboration and full time opportunities. 
 
