@@ -14,11 +14,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | C++ | Java
-- 🌐 &nbsp; ReactJS | NodeJS | ExpressJS | ThreeJS | NextJS   
+- 💻 &nbsp; Javascript | TypeScript | Python | C++ | Java
+- 🌐 &nbsp;  NextJS | ReactJS | NodeJS | ExpressJS | ThreeJS 
 - 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Redux Toolkit | RestAPI
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB 
+- 🔧 &nbsp; Git | Postman API | Redux Toolkit | RestAPI | Jira | Prisma
 
 
 ### 📫🤝🏻 Connect with Me
