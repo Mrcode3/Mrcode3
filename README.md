@@ -9,8 +9,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Recent computer science graduate at University of Massachusetts Boston, US.
-- 🌱 &nbsp; Currently Learning to become a full stack web developer.
-- 👀 &nbsp; Open for project collaboration and full time opportunities. 
+- 🌱 &nbsp; Currently Learning to become a full stack developer.
+- 👀 &nbsp; Open for project collaboration. 
 
 <h3>🛠 Tech Stack</h3>
 
